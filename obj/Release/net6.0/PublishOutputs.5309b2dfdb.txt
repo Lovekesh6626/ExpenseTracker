@@ -1,0 +1,7 @@
+C:\Users\lsaini\source\repos\ExpenseTracker\publish\ExpenseTracker.exe
+C:\Users\lsaini\source\repos\ExpenseTracker\publish\appsettings.Development.json
+C:\Users\lsaini\source\repos\ExpenseTracker\publish\appsettings.json
+C:\Users\lsaini\source\repos\ExpenseTracker\publish\ExpenseTracker.dll
+C:\Users\lsaini\source\repos\ExpenseTracker\publish\ExpenseTracker.deps.json
+C:\Users\lsaini\source\repos\ExpenseTracker\publish\ExpenseTracker.runtimeconfig.json
+C:\Users\lsaini\source\repos\ExpenseTracker\publish\ExpenseTracker.pdb
