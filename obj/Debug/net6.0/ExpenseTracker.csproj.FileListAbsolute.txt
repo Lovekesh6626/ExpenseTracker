@@ -31,3 +31,4 @@ C:\Users\lsaini\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\refi
 C:\Users\lsaini\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.pdb
 C:\Users\lsaini\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.genruntimeconfig.cache
 C:\Users\lsaini\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ref\ExpenseTracker.dll
+C:\Users\lsaini\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.sourcelink.json
